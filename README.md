@@ -1,2 +1,3 @@
 # BME Knowledge Base
-A knowledge base repository for Biomedical Engineering and Multiplatform Development topics.
+
+A curated knowledge repository covering biomedical engineering concepts and healthcare technologies.
